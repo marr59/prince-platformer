@@ -4,9 +4,11 @@ A 2D sword-fighting platformer built with vanilla JS & HTML Canvas, no dependenc
 
 Run, jump, climb, fight guards with your sword, and dodge spike traps to escape the citadel.
 
-## Play
-
-Open `index.html` in any browser, or enable GitHub Pages on this repo (Settings → Pages → branch `main`, folder `/root`) to play at `https://marr59.github.io/prince-platformer/`.
+<p align="center">
+  <a href="https://marr59.github.io/prince-platformer/">
+    <img alt="Play the game" src="https://img.shields.io/badge/▶_PLAY_THE_GAME-black?style=for-the-badge&logo=github&logoColor=white&color=1a1022">
+  </a>
+</p>
 
 ## Controls
 
@@ -20,4 +22,4 @@ Open `index.html` in any browser, or enable GitHub Pages on this repo (Settings 
 
 ## Tech
 
-Single self-contained HTML file — Canvas 2D rendering, no build step, no external assets or libraries.
+Single self-contained HTML file — Canvas 2D rendering, no build step, no external assets or libraries. Runs entirely in the browser.
